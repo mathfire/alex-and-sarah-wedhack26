@@ -15,6 +15,7 @@ In lieu of standing beside me in the traditional way as I marry the woman who cu
 Would you agree to help me lose spectacularly to the Bridegroom in a series of staged racquetball matches during the wedding October 11, 2026?
 Yes or no, that's the whole question for now.
 If no, I still love you just as much.
-For more information, please check the Groomsmen Gauntlet Handbook, found online at: https://github.com/mathfire/alex-and-sarah-wedhack26/da_boyz/Groomsmen_Gauntlent_Racquetball_Handbook.pdf where we can get into the ridiculous details, strategy, timing, costumes, bits, any prizes, and your opportunity to design your own glorious defeat. ❤️
+For more information, please check the Groomsmen Gauntlet Handbook, found online at: 
+ [Text to display]([https://example.com](https://github.com/mathfire/alex-and-sarah-wedhack26/da_boyz/Groomsmen_Gauntlet_Racquetball_Handbook.pdf)) (e.g., [Visit my project]([https://github.com/user/repo](https://github.com/mathfire/alex-and-sarah-wedhack26/da_boyz/Groomsmen_Gauntlet_Racquetball_Handbook.pdf))) where we can get into the ridiculous details, strategy, timing, costumes, bits, any prizes, and your opportunity to design your own glorious defeat. ❤️
 Much love,
 Alex
