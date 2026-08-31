@@ -19,3 +19,27 @@ For more information, please check the Groomsmen Gauntlet Handbook, found online
 https://github.com/mathfire/alex-and-sarah-wedhack26/blob/main/da_boyz/Groomsmen_Gauntlet_Racquetball_Handbook.pdf where we can get into the ridiculous details, strategy, timing, costumes, bits, any prizes, and your opportunity to design your own glorious defeat. ❤️
 Much love,
 Alex
+
+Drop this here for now...
+
+weDHack26
+========
+A collaborative hackathon built around technology,
+environment, creativity, and wedding-week experimentation.
+
+Challenge Tracks
+----------------
+01 — Green Hack
+02 — Pattern Hack
+03 — Wedding Radio
+04 — Wedding Hack
+05 — Hyper Hamster Wild Card
+
+Schedule
+--------
+October 7–9, 2026
+
+Participation
+-------------
+Local + virtual teams
+...
