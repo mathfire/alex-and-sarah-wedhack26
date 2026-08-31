@@ -16,6 +16,6 @@ Would you agree to help me lose spectacularly to the Bridegroom in a series of s
 Yes or no, that's the whole question for now.
 If no, I still love you just as much.
 For more information, please check the Groomsmen Gauntlet Handbook, found online at: 
- [(https://github.com/mathfire/alex-and-sarah-wedhack26/da_boyz/Groomsmen_Gauntlet_Racquetball_Handbook.pdf)]([https://githubn.com/mathfire/alex-and-sarah-wedhack26/da_boyz/Groomsen_Gauntlet_Racquetball_Handbook.pdf] where we can get into the ridiculous details, strategy, timing, costumes, bits, any prizes, and your opportunity to design your own glorious defeat. ❤️
+ [(https://github.com/mathfire/alex-and-sarah-wedhack26/da_boyz/Groomsmen_Gauntlet_Racquetball_Handbook.pdf)]([https://github.com/mathfire/alex-and-sarah-wedhack26/da_boyz/Groomsmen_Gauntlet_Racquetball_Handbook.pdf] where we can get into the ridiculous details, strategy, timing, costumes, bits, any prizes, and your opportunity to design your own glorious defeat. ❤️
 Much love,
 Alex
